@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: 591981b93fdc24404a5c92557ffd3bba
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sad_0
+    21300002: sad_1
+    21300004: sad_2
+    21300006: sad_3
+    21300008: sad_4
+    21300010: sad_5
+    21300012: sad_6
+    21300014: sad_7
+    21300016: sad_8
+    21300018: sad_9
+    21300020: sad_10
+    21300022: sad_11
+    21300024: sad_12
+    21300026: sad_13
+    21300028: sad_14
+    21300030: sad_15
+    21300032: sad_16
+    21300034: sad_17
+    21300036: sad_18
+    21300038: sad_19
+    21300040: sad_20
+    21300042: sad_21
+    21300044: sad_22
+    21300046: sad_23
+    21300048: sad_24
+    21300050: sad_25
+    21300052: sad_26
+    21300054: sad_27
+    21300056: sad_28
+    21300058: sad_29
+    21300060: sad_30
+    21300062: sad_31
+    21300064: sad_32
+    21300066: sad_33
+    21300068: sad_34
+    21300070: sad_35
+    21300072: sad_36
+    21300074: sad_37
+    21300076: sad_38
+    21300078: sad_39
+    21300080: sad_40
+    21300082: sad_41
+    21300084: sad_42
+    21300086: sad_43
+    21300088: sad_44
+    21300090: sad_45
+    21300092: sad_46
+    21300094: sad_47
+    21300096: sad_48
+    21300098: sad_49
+    21300100: sad_50
+    21300102: sad_51
+    21300104: sad_52
+    21300106: sad_53
+    21300108: sad_54
+    21300110: sad_55
+    21300112: sad_56
+    21300114: sad_57
+    21300116: sad_58
+    21300118: sad_59
+    21300120: sad_60
+    21300122: sad_61
+    21300124: sad_62
+    21300126: sad_63
+    21300128: sad_64
+    21300130: sad_65
+    21300132: sad_66
+    21300134: sad_67
+    21300136: sad_68
+    21300138: sad_69
+    21300140: sad_70
+    21300142: sad_71
+    21300144: sad_72
+    21300146: sad_73
+    21300148: sad_74
+    21300150: sad_75
+    21300152: sad_76
+    21300154: sad_77
+    21300156: sad_78
+    21300158: sad_79
+    21300160: sad_80
+    21300162: sad_81
+    21300164: sad_82
+    21300166: sad_83
+    21300168: sad_84
+    21300170: sad_85
+    21300172: sad_86
+    21300174: sad_87
+    21300176: sad_88
+    21300178: sad_89
+    21300180: sad_90
+    21300182: sad_91
+    21300184: sad_92
+    21300186: sad_93
+    21300188: sad_94
+    21300190: sad_95
+    21300192: sad_96
+    21300194: sad_97
+    21300196: sad_98
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_6
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_7
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_8
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2560
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_15
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_16
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2304
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_25
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_26
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2048
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_32
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_33
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_34
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_35
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1792
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_40
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_42
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_43
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_44
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1536
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_51
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_52
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_53
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1280
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_57
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_58
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_59
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_60
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_61
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_62
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1024
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_66
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_67
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_68
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_69
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_70
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_71
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 768
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_74
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_75
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_76
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_77
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_78
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_79
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_80
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 512
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_83
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_84
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_85
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_86
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_87
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_88
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_89
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 256
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_92
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_93
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_94
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_95
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_96
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_97
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sad_98
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 212
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

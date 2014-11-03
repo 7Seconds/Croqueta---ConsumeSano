@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CrocodrileControllerSript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/gui/SceneRefrigerator.cs" Line="308" Column="40" />
+      <File FileName="Assets/Scripts/gui/SceneKitchen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/gui/CalorieResume.cs" Line="44" Column="29" />
+      <File FileName="Assets/Scripts/gui/AddFoodScene.cs" Line="41" Column="36" />
+      <File FileName="Assets/Scripts/gui/SceneRoom.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/CrocodrileControllerSript.cs" Line="40" Column="3" />
+      <File FileName="Assets/Scripts/CrocodrileControllerBath.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/gui/RegistryFormWeight.cs" Line="175" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="gui" expanded="True" />
+              <Node name="CrocodrileControllerSript.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="gui" expanded="True" /

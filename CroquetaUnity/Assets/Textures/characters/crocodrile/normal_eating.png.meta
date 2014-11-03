@@ -1,0 +1,740 @@
+fileFormatVersion: 2
+guid: 62d9e152555d24e67b3112ce3e5547a3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: normal_eating_0
+    21300002: normal_eating_1
+    21300004: normal_eating_2
+    21300006: normal_eating_3
+    21300008: normal_eating_4
+    21300010: normal_eating_5
+    21300012: normal_eating_6
+    21300014: normal_eating_7
+    21300016: normal_eating_8
+    21300018: normal_eating_9
+    21300020: normal_eating_10
+    21300022: normal_eating_11
+    21300024: normal_eating_12
+    21300026: normal_eating_13
+    21300028: normal_eating_14
+    21300030: normal_eating_15
+    21300032: normal_eating_16
+    21300034: normal_eating_17
+    21300036: normal_eating_18
+    21300038: normal_eating_19
+    21300040: normal_eating_20
+    21300042: normal_eating_21
+    21300044: normal_eating_22
+    21300046: normal_eating_23
+    21300048: normal_eating_24
+    21300050: normal_eating_25
+    21300052: normal_eating_26
+    21300054: normal_eating_27
+    21300056: normal_eating_28
+    21300058: normal_eating_29
+    21300060: normal_eating_30
+    21300062: normal_eating_31
+    21300064: normal_eating_32
+    21300066: normal_eating_33
+    21300068: normal_eating_34
+    21300070: normal_eating_35
+    21300072: normal_eating_36
+    21300074: normal_eating_37
+    21300076: normal_eating_38
+    21300078: normal_eating_39
+    21300080: normal_eating_40
+    21300082: normal_eating_41
+    21300084: normal_eating_42
+    21300086: normal_eating_43
+    21300088: normal_eating_44
+    21300090: normal_eating_45
+    21300092: normal_eating_46
+    21300094: normal_eating_47
+    21300096: normal_eating_48
+    21300098: normal_eating_49
+    21300100: normal_eating_50
+    21300102: normal_eating_51
+    21300104: normal_eating_52
+    21300106: normal_eating_53
+    21300108: normal_eating_54
+    21300110: normal_eating_55
+    21300112: normal_eating_56
+    21300114: normal_eating_57
+    21300116: normal_eating_58
+    21300118: normal_eating_59
+    21300120: normal_eating_60
+    21300122: normal_eating_61
+    21300124: normal_eating_62
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: normal_eating_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_5
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_7
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_8
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1560
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_14
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_15
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_17
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1300
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_24
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_25
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_26
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1040
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_32
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_33
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_34
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_35
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 780
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_38
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_39
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_40
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_41
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_43
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_44
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 520
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_48
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_49
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_50
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_51
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_52
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_53
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 260
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_57
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_59
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_60
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_61
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_eating_62
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 0
+        width: 211
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
