@@ -12,7 +12,7 @@ En el repositorio se encuentran:
 -Proyecto Android
 -Proyecto Unity
 
-EL código fuente original de la aplicación está contenida en el Proyecto de Unity.
+El código fuente original de la aplicación está contenida en el Proyecto de Unity.
 
 Para la instalación de Android:
 Se requiere la última versión del SDK de Android así como Eclipse Juno, únicamente se requiere importar el proyecto y realizar el deploy.
