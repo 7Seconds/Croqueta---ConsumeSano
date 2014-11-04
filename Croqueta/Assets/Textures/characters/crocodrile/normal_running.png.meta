@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: ec2ea4bbdbca743fcb944a21239d9473
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: normal_running_0
+    21300002: normal_running_1
+    21300004: normal_running_2
+    21300006: normal_running_3
+    21300008: normal_running_4
+    21300010: normal_running_5
+    21300012: normal_running_6
+    21300014: normal_running_7
+    21300016: normal_running_8
+    21300018: normal_running_9
+    21300020: normal_running_10
+    21300022: normal_running_11
+    21300024: normal_running_12
+    21300026: normal_running_13
+    21300028: normal_running_14
+    21300030: normal_running_15
+    21300032: normal_running_16
+    21300034: normal_running_17
+    21300036: normal_running_18
+    21300038: normal_running_19
+    21300040: normal_running_20
+    21300042: normal_running_21
+    21300044: normal_running_22
+    21300046: normal_running_23
+    21300048: normal_running_24
+    21300050: normal_running_25
+    21300052: normal_running_26
+    21300054: normal_running_27
+    21300056: normal_running_28
+    21300058: normal_running_29
+    21300060: normal_running_30
+    21300062: normal_running_31
+    21300064: normal_running_32
+    21300066: normal_running_33
+    21300068: normal_running_34
+    21300070: normal_running_35
+    21300072: normal_running_36
+    21300074: normal_running_37
+    21300076: normal_running_38
+    21300078: normal_running_39
+    21300080: normal_running_40
+    21300082: normal_running_41
+    21300084: normal_running_42
+    21300086: normal_running_43
+    21300088: normal_running_44
+    21300090: normal_running_45
+    21300092: normal_running_46
+    21300094: normal_running_47
+    21300096: normal_running_48
+    21300098: normal_running_49
+    21300100: normal_running_50
+    21300102: normal_running_51
+    21300104: normal_running_52
+    21300106: normal_running_53
+    21300108: normal_running_54
+    21300110: normal_running_55
+    21300112: normal_running_56
+    21300114: normal_running_57
+    21300116: normal_running_58
+    21300118: normal_running_59
+    21300120: normal_running_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: normal_running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_6
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_7
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_8
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1578
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_15
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_16
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1315
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_25
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_26
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1052
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_32
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_33
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_34
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_35
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 789
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_39
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_40
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_42
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_43
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_44
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 526
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_50
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_51
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_52
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_53
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 263
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_57
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_58
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_59
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: normal_running_60
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
